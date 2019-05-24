@@ -2,11 +2,12 @@
 ## (( Jiawen Lin ))
 
 ## Bio
-(( email: linj14@rpi.du
+(( 
+email: linj14@rpi.edu
 
 github account: pangtsu
 
-Mattermost handlReportse: jiawen_lin
+Mattermost handle: jiawen_lin
 
 Here's a photo of myself: 
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/selfie.jpg
