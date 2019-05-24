@@ -9,7 +9,7 @@ github account: pangtsu
 Mattermost handlReportse: jiawen_lin
 
 Here's a photo of myself: 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/5161558710538_.pic.jpg
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/selfie.jpg
 ))
 
 ## Lab 
