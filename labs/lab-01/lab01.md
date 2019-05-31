@@ -28,8 +28,8 @@
 
 5. **Reflection**
 
-  - An open source project that might be interested to evaluate:
+  - An open source project that might be interested to evaluate: ***Submitty***
 
-  - Add a paragraph on how you are doing this activity:
+  - Add a paragraph on how you are doing this activity: In order to search for the projects I want to build, I would need to know what kind of skills I'm trying to learn and most importantly, what I'm interested in. I will first look at ideas online, analyze them, and eventually come up with my own. 
 
 
