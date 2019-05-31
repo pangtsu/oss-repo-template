@@ -9,15 +9,15 @@
 
 2. **Linux**
    - directory structur commands and grep:
-  ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/command\ practice.png)
+  ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/command practice.png)
    
    - tree installation:
-   ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/man\ tree.png)
+   ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/man tree.png)
    
 3. **Regrex**
 
   1. 
-     ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice\ problems.jpg) 
+     ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice problems.jpg) 
   
   2. 
      ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice.png)
