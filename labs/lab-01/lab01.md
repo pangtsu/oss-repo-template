@@ -9,31 +9,27 @@
 
 2. **Linux**
    - directory structur commands and grep:
-  ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/command practice.png)
+  ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/command.png)
    
    - tree installation:
-   ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/man tree.png)
+   ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/tree.png)
    
 3. **Regrex**
 
-  1. 
-     ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice problems.jpg) 
-  
-  2. 
-     ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice.png)
+  - 7 problems
+    ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/problems.jpg) 
+  - 4 problems
+    ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/practice.png)
 
 
 4. **Snap**
-
-
-
-
+  ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/snap.png)
 
 
 5. **Reflection**
 
-- An open source project that might be interested to evaluate:
+  - An open source project that might be interested to evaluate:
 
-- Add a paragraph on how you are doing this activity:
+  - Add a paragraph on how you are doing this activity:
 
 
