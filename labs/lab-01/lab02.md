@@ -1,4 +1,4 @@
-# Lab 01 Report - Intro to Git
+# Lab 02 Report - Intro to Git
 
 1. **Part 1** 
 - Link to repo: 
