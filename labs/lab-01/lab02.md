@@ -1,4 +1,6 @@
-*** Part 1
+# Lab 01 Report - Intro to Git
 
-Link to repo: 
-https://github.com/pangtsu/lab2
+1. **Part 1** 
+- Link to repo: 
+  https://github.com/pangtsu/lab2
+
