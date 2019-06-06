@@ -4,7 +4,7 @@
 - Link to repo: 
   https://github.com/pangtsu/lab2
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/1.jpg
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/1.png
 ))
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/2.jpg
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/2.png
 ))
