@@ -12,6 +12,16 @@
 
 2. **Part 2** 
 
-- Link to repo:
+- Link to repo Spoon Knife:
   https://github.com/pangtsu/Spoon-Knife
 
+
+3. **Part 3** 
+
+- Link to repo Pull Req:
+  https://github.com/pangtsu/PullReq
+- Link to Repo courseproject: 
+  https://github.com/pangtsu/courseproject
+  
+- Link to Project ideas repo:
+  https://github.com/beshaz/OSSProjectIdeas
