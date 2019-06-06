@@ -15,6 +15,8 @@
 - Link to repo Spoon Knife:
   https://github.com/pangtsu/Spoon-Knife
 
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/complete.png
+))
 
 3. **Part 3** 
 
