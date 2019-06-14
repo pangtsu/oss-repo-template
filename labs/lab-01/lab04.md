@@ -20,3 +20,9 @@
 - 
 **Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license.**
 
+
+
+
+
+
+Creative Commons License This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
