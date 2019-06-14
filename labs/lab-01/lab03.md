@@ -4,14 +4,14 @@
 
 1. 
 
-See my Wiki Page
+See my Wiki Page https://github.com/pangtsu/oss-repo-template/wiki
 
 2. 
  $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
 
 3 \\. 
 $\begin{bmatrix}
-1 & 1 & 1 & 1\\
+1 & 1 & 1 & 1 \\
 -1 & 1 & -1 & 1 \\
 1 & -1 & 1 & 1 \\
 1 & -1 & -1 &1
