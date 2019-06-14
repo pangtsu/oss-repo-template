@@ -19,8 +19,7 @@
 **Group Project**
 - 
 **Take 5 projects from Observatory or past RCOS Projects and create a table for which project has which license.**
-
-
+Collaborator: Elija
 
 
 
