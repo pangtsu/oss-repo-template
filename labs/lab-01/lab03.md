@@ -7,16 +7,18 @@
 See my Wiki Page https://github.com/pangtsu/oss-repo-template/wiki
 
 2. 
- $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
-
+- $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
+- ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/radical.png
+))
 3 \\. 
-$\begin{bmatrix}
+- $\begin{bmatrix}
 1 & 1 & 1 & 1 \\
 -1 & 1 & -1 & 1 \\
 1 & -1 & 1 & 1 \\
 1 & -1 & -1 &1
 \end{bmatrix}$
-
+- ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/matrix.png
+))
 
 **Part 2**
 **Project: Smart-Calendar**
