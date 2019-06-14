@@ -30,7 +30,7 @@ See my Wiki Page https://github.com/pangtsu/oss-repo-template/wiki
 ))
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/22.png
 ))
-- Comparison with the below output: Lines of codes are different. One is 844, and the other is 740.
+- Comparison with the below output: Lines of codes are different. One is 844, and the other is 720.
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/33.png
 ))
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/44.png
