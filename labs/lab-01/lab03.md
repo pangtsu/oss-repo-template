@@ -13,11 +13,7 @@ See my Wiki Page https://github.com/pangtsu/oss-repo-template/wiki
 
 3 
 - $\begin{bmatrix}
-1 & 1 & 1 & 1 \\
--1 & 1 & -1 & 1 \\
-1 & -1 & 1 & 1 \\
-1 & -1 & -1 &1
-\end{bmatrix}$
+1 & 1 & 1 & 1 \\ -1 & 1 & -1 & 1 \\ 1 & -1 & 1 & 1 \\ 1 & -1 & -1 &1 \end{bmatrix}$
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/matrix.png
 ))
 
