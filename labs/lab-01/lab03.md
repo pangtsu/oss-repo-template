@@ -1,6 +1,24 @@
 # Lab 03 Report - Community Development and Unit Testing
 
+**Part 1**
 
+1. 
+
+See my Wiki Page
+
+2. 
+ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$
+
+3 \\. 
+$\begin{bmatrix}
+1 & 1 & 1 & 1\\
+-1 & 1 & -1 & 1 \\
+1 & -1 & 1 & 1 \\
+1 & -1 & -1 &1
+\end{bmatrix}$
+
+
+**Part 2**
 **Project: Smart-Calendar**
 
 - the number of contributors: 2
