@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 }
 ```
 
-- CmakeLists.txt:
+- CMakeLists.txt:
 ```
   cmake_minimum_required(VERSION 3.3)
   project(Tutorial)
@@ -64,7 +64,7 @@ Running the code:
 
 **Step 2**
 
--tutorial.cxx:
+- tutorial.cxx:
 ```
 // A simple program that computes the square root of a number
 #include <cmath>
@@ -100,7 +100,7 @@ int main(int argc, char* argv[])
 }
 
 ```
--CmakeLists.txt:
+- CMakeLists.txt:
 ```
   cmake_minimum_required(VERSION 3.3)
   project(Tutorial)
