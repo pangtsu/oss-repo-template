@@ -1,3 +1,5 @@
+# Lab 5: CMake tutorial part 1
+
 **Step 1**
 
 
@@ -381,7 +383,9 @@ install(FILES MathFunctions.h DESTINATION include)
 ```
 
 
-## Part 2 of Lab ##
+
+
+# Part 2 of Lab
 
 **Makefile:**
 ```
