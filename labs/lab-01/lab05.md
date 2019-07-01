@@ -59,6 +59,8 @@ int main(int argc, char* argv[])
                              )
 ```
 Running the Code:
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen1.png
+))
 
 
 **Step 2**
@@ -141,6 +143,10 @@ int main(int argc, char* argv[])
 
 ```
 
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen2.png
+))
+
+
 **Step 3**
 
 
@@ -192,6 +198,10 @@ add_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
+
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen3.png
+))
+
 
 **Step 4**
 
@@ -281,6 +291,9 @@ install (TARGETS MathFunctions DESTINATION bin)
 install (FILES MathFunctions.h DESTINATION include)
 Running ctest:
 ```
+
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen4.png
+))
 
 
 **Step 5**
@@ -380,6 +393,9 @@ target_include_directories(MathFunctions
 install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
+
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen5.png
+))
 
 
 
@@ -685,8 +701,13 @@ cmake_check_build_system:
 	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 ```
+
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen6.png
+))
+
+
 - Executable sizes:
 ```
-Static: 8464 bytes
-Shared: 8296 bytes
+Static: 144 bytes
+Shared: 167 bytes
 ```
