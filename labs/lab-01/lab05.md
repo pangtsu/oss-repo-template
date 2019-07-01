@@ -59,7 +59,7 @@ int main(int argc, char* argv[])
                              )
 ```
 Running the Code:
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen1.png
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen5.png
 ))
 
 
@@ -143,7 +143,7 @@ int main(int argc, char* argv[])
 
 ```
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen2.png
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen4.png
 ))
 
 
@@ -199,7 +199,7 @@ target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 ```
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen3.png
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen2.png
 ))
 
 
@@ -292,7 +292,7 @@ install (FILES MathFunctions.h DESTINATION include)
 Running ctest:
 ```
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen4.png
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen3.png
 ))
 
 
@@ -394,7 +394,7 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 ```
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen5.png
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/screen1.png
 ))
 
 
