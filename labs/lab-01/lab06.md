@@ -16,3 +16,5 @@
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/s9.jpg)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/s10.jpg)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/s11.jpg)
+
+**Example 4**
