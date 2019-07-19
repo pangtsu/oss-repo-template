@@ -20,7 +20,7 @@
 **Example 4**
 
 Due to some problem with installing peer dependencies, I had to switch my operating system from MacOS to Ubuntu for this last example. It worked perfectly fine.
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step1.jpg)
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step22.jpg)
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step3.jpg)
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step4.jpg)
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step1.png)
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step22.png)
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step3.png)
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step4.png)
