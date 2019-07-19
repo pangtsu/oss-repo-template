@@ -22,7 +22,7 @@
 Due to some problem with installing peer dependencies (see below screenshot), I had to switch my operating system from MacOS to Ubuntu for this last example. It worked perfectly fine.
 
 
-![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/peer.png)
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/peer.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/Step1.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step22.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/step3.png)
