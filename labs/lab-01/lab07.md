@@ -1,6 +1,6 @@
-**Installation Testin**
+**Installation Testing**
 
-
+![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/install.png)
 
 
 
