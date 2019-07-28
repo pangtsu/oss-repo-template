@@ -98,7 +98,7 @@ if __name__ == '__main__':
             print("None")
 ```
 **Output:**
-
+```
 Shortest path between chaos and order is
 chaos
 chats
@@ -161,7 +161,7 @@ peace
 peach
 Shortest path between pound and marks is
 None
-
+```
 
 **Problem 3**
 ```
@@ -228,7 +228,7 @@ if __name__ == '__main__':
             print("None")
 ```
 **Output**
-
+```
 Shortest path between cold and warm is
 cold
 cord
@@ -250,7 +250,7 @@ beef
 Shortest path between make and take is
 make
 take
-
+```
 
 
 
@@ -327,6 +327,8 @@ if __name__ == '__main__':
             print("None")
 ```
 **Output**
+
+```
 Shortest path between chaos and order is
 chaos
 echos
@@ -363,5 +365,5 @@ modus
 drums
 mrads
 marks
-
+```
 
