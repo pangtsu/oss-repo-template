@@ -1,4 +1,4 @@
-**Part 1**
+# Part 1
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/one.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/two.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/three.png)
@@ -10,7 +10,7 @@
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/nine.png)
 
 
-**Part 2**
+# Part 2
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/ten.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/eleven.png)
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/12.png)
@@ -20,6 +20,7 @@
 ![alt text](https://raw.githubusercontent.com/pangtsu/oss-repo-template/master/labs/lab-01/16.png)
 
 
-**Observatory**
+# Observatory
+
 Folsom Library Occupancy Monitor
 https://rcos.io/projects/flomv2/flom/profile
